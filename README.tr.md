@@ -162,6 +162,13 @@ python3 melihss.py             # ekran görüntüsü al
 python3 melihss.py --settings  # ayarlar penceresi
 ```
 
+## Geliştirici
+
+**Melih Ekizce**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-melihekizce-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melihekizce/)
+[![GitHub](https://img.shields.io/badge/GitHub-EkizceMelih-181717?logo=github&logoColor=white)](https://github.com/EkizceMelih)
+
 ## Lisans
 
 [MIT](LICENSE) © 2026 Melih Ekizce

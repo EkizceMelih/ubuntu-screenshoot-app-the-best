@@ -160,6 +160,13 @@ python3 melihss.py             # capture
 python3 melihss.py --settings  # settings window
 ```
 
+## Author
+
+**Melih Ekizce**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-melihekizce-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melihekizce/)
+[![GitHub](https://img.shields.io/badge/GitHub-EkizceMelih-181717?logo=github&logoColor=white)](https://github.com/EkizceMelih)
+
 ## License
 
 [MIT](LICENSE) © 2026 Melih Ekizce
