@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a8ef0"/>
+      <stop offset="1" stop-color="#7a45e0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="26" fill="url(#bg)"/>
+  <g fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 44 V28 H42"/>
+    <path d="M86 28 H102 V44"/>
+    <path d="M102 78 V94 H86"/>
+    <path d="M42 94 H26 V78"/>
+  </g>
+  <!-- camera -->
+  <rect x="52" y="40" width="20" height="10" rx="3" fill="#ffffff"/>
+  <rect x="38" y="46" width="52" height="36" rx="7" fill="#ffffff"/>
+  <circle cx="64" cy="64" r="12.5" fill="#5b63e6"/>
+  <circle cx="64" cy="64" r="7.5" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="82" cy="53" r="2.5" fill="#5b63e6"/>
+  <text x="64" y="114" font-family="Sans" font-weight="bold" font-size="15" fill="#ffffff" text-anchor="middle">melihSS</text>
+</svg>

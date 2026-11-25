@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=melihSS
+GenericName=Screenshot Tool
+Comment=Capture a region of the screen, annotate it and copy it in one go
+Exec=@BIN@
+Icon=io.github.EkizceMelih.melihSS
+Type=Application
+Categories=Utility;Graphics;
+Keywords=screenshot;capture;snip;annotate;lightshot;
+StartupWMClass=io.github.EkizceMelih.melihSS
+Terminal=false
+Actions=settings;
+
+[Desktop Action settings]
+Name=Settings
+Exec=@BIN@ --settings
