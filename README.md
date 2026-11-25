@@ -1,4 +1,8 @@
 <p align="center">
+  <b>English</b> · <a href="README.tr.md">Türkçe</a>
+</p>
+
+<p align="center">
   <img src="data/icons/io.github.EkizceMelih.melihSS.svg" width="112" alt="melihSS icon">
 </p>
 
